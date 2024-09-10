@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cafe1e6f.css",
+    "main.js": "/static/js/main.81db5ad1.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/Inter_18pt-Black.ttf": "/static/media/Inter_18pt-Black.2615b19ab6fb503e6bb7.ttf",
+    "static/media/Inter_18pt-Bold.ttf": "/static/media/Inter_18pt-Bold.934ca051dc94cbb68779.ttf",
+    "static/media/main-img.png": "/static/media/main-img.2027e770e246eb572dfb.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fonarto.xt.ttf": "/static/media/fonarto.xt.4d06f02e5d72f02e7863.ttf",
+    "static/media/hiraeth.jpg": "/static/media/hiraeth.08b2c30951c2bfbd36c7.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.cafe1e6f.css.map": "/static/css/main.cafe1e6f.css.map",
+    "main.81db5ad1.js.map": "/static/js/main.81db5ad1.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cafe1e6f.css",
+    "static/js/main.81db5ad1.js"
+  ]
+}
